@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[socceroon]]></title>
         <description><![CDATA[socceroon]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/socceroon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 00:00:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 06 May 2016 00:07:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/socceroon/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[We Do Not Dream | By Claudio Ranieri]]></title>
+            <description><![CDATA[<article><h1>We Do Not Dream | By Claudio Ranieri</h1><p>I remember my first meeting with the chairman when I arrived at Leicester City this summer. He sat down with me and said, "Claudio, this is a very important year for the club. It is very important for us to stay in the Premier League. We have to stay safe."</p><img src="http://s3.amazonaws.com/tpt-uploads-production/uploads/AP_974482512244.jpg"></article>]]></description>
+            <link>http://www.theplayerstribune.com/claudio-ranieri-leicester-city-premier-league/</link>
+            <guid isPermaLink="false">37bb0271-222d-4491-afc0-73a515f22b85</guid>
+            <pubDate>Fri, 06 May 2016 00:06:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb3c6f5f-a6a3-4d54-ad13-823917b2b052.jpg">]]></description>
-            <link>undefined7e79f32c-fe54-4562-b1d9-f5cc7ce9a562/index.html</link>
+            <link>https://thegrid.ai/socceroon/7e79f32c-fe54-4562-b1d9-f5cc7ce9a562/index.html</link>
             <guid isPermaLink="false">7e79f32c-fe54-4562-b1d9-f5cc7ce9a562</guid>
             <pubDate>Fri, 06 May 2016 00:00:43 GMT</pubDate>
         </item>
