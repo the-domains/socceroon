@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'David Gilmour Live in NYC '
-datePublished: '2016-05-06T00:37:17.428Z'
-dateModified: '2016-05-06T00:36:47.533Z'
+datePublished: '2016-05-06T00:37:32.063Z'
+dateModified: '2016-05-06T00:37:19.734Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-06-david-gilmour-live-in-nyc.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-06-david-gilmour-live-in-nyc.md
 url: david-gilmour-live-in-nyc/index.html
 _type: Article
 
