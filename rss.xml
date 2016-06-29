@@ -4,8 +4,15 @@
         <description><![CDATA[socceroon]]></description>
         <link>https://thegrid.ai/socceroon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 29 Jun 2016 01:14:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2016 01:15:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/socceroon/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>http://www.theplayerstribune.com/pele-soccer-letter-to-my-younger-self/</p>]]></description>
+            <link>https://thegrid.ai/socceroon/httpwwwtheplayerstribunecompele-soccer-letter-to-my-yo/index.html</link>
+            <guid isPermaLink="false">89e1440a-5a10-46a4-ad11-5e26d7f496ef</guid>
+            <pubDate>Wed, 29 Jun 2016 01:15:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>http://www.theguardian.com/us-news/gallery/2016/may/07/pigeons-led-lights-duke-riley-new-york-pictures</p>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.theplayerstribune.com/claudio-ranieri-leicester-city-premier-league/</link>
             <guid isPermaLink="false">37bb0271-222d-4491-afc0-73a515f22b85</guid>
             <pubDate>Fri, 06 May 2016 00:06:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb3c6f5f-a6a3-4d54-ad13-823917b2b052.jpg">]]></description>
-            <link>https://thegrid.ai/socceroon/7e79f32c-fe54-4562-b1d9-f5cc7ce9a562/index.html</link>
-            <guid isPermaLink="false">7e79f32c-fe54-4562-b1d9-f5cc7ce9a562</guid>
-            <pubDate>Fri, 06 May 2016 00:00:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
